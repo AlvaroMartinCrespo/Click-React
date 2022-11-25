@@ -6,11 +6,27 @@
     /* padding-top: 15px; */
 }
 
-.cocacola-contenedor {
+.contenedor {
+    color: white;
+    font-size: 4em;
+    display: flex;
+    align-items: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+.blueSpan {
+    color: blue;
+    padding: 4px;
+}
+
+.greenSpan {
+    color: chartreuse;
+    padding: 4px;
 }
 
 .cocacola-logo {
